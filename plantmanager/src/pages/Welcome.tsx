@@ -14,11 +14,11 @@ import colors from "../styles/colors";
 import fonts from "../styles/fonts";
 import { useNavigation } from "@react-navigation/native";
 
-const Welcome: React.FC = () => {
+export function Welcome() {
   const navigation = useNavigation();
 
   function handleStart() {
-    navigation.navigate("UserIndentification");
+    navigation.navigate("UserIdentification");
   }
   return (
     <SafeAreaView style={styles.container}>
@@ -43,7 +43,7 @@ const Welcome: React.FC = () => {
       </View>
     </SafeAreaView>
   );
-};
+}
 
 const styles = StyleSheet.create({
   container: {
@@ -88,5 +88,3 @@ const styles = StyleSheet.create({
     color: colors.white,
   },
 });
-
-export { Welcome };

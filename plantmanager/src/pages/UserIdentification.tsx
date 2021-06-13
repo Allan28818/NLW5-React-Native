@@ -15,7 +15,7 @@ import fonts from "../styles/fonts";
 import { Button } from "../components/Button";
 import { useNavigation } from "@react-navigation/native";
 
-const UserIndentification: React.FC = () => {
+export function UserIdentification() {
   const [isFocused, setIsFocused] = useState(false);
   const [isFilled, setIsFilled] = useState(false);
   const [name, setName] = useState<string>();
@@ -73,7 +73,7 @@ const UserIndentification: React.FC = () => {
       </KeyboardAvoidingView>
     </SafeAreaView>
   );
-};
+}
 
 const styles = StyleSheet.create({
   container: {
@@ -118,4 +118,3 @@ const styles = StyleSheet.create({
     paddingHorizontal: 20,
   },
 });
-export { UserIndentification };

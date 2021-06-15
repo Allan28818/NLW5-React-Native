@@ -55,7 +55,7 @@ Em seguida levante a aplicação:
 $ expo start
 ```
 
-Agora baixe o Expo em seu celular, ou use um emulador IOS ou Android para rodar a aplicação.[Recomendo baixar o aplicativo na Aple Store ou PlayStore]("https://expo.io/client") Expo Go. Depois escaneie o QR Code e pronto! Aplicação no ar!
+Agora baixe o Expo em seu celular, ou use um emulador IOS ou Android para rodar a aplicação.[Recomendo baixar o aplicativo na Aple Store ou PlayStore](https://expo.io/client) Expo Go. Depois escaneie o QR Code e pronto! Aplicação no ar!
 
 ## Navegando pela aplicação
 ## 🚤🛥
@@ -91,3 +91,9 @@ Para me seguir e me acompanhar nas redes sociais veja meu Linkedin e Instagram e
 - [Linkedin](https://www.linkedin.com/in/allan-julie-b535811b4)
 - [Instagram](https://www.instagram.com/allan120699/)
 - Email - allanzinhofontes@gmail.com
+
+
+## Créditos:
+Agradeço a [Rockeseat](https://www.linkedin.com/school/rocketseat/), que na última edição da NLW me ajudou e ajudou diversos outros desenvolvedores e desenvolvedoras a avançar para o próximo nível!
+
+<img src="https://media-exp1.licdn.com/dms/image/C560BAQFU-ZKLLdANXg/company-logo_200_200/0/1596796119888?e=1631750400&v=beta&t=_KXUYZKQqJDFFPgPZVOGq1EepVTHhFU_osnSVgX_dT4" alt="Rockeseat - profile image">

@@ -1,3 +1,6 @@
+// © Allan Julie Fontes de Oliveira  - 2021
+// Acesse o meu GitHub: https://github.com/Allan28818/NLW5-React-Native
+
 import React from "react";
 import { useState } from "react";
 import { useEffect } from "react";
@@ -102,9 +105,7 @@ export function PlantSelect() {
     fetchPlants();
   }, []);
 
-  if (loading) {
-    return <Load />;
-  }
+  if (loading) return <Load />;
 
   return (
     <View style={styles.container}>

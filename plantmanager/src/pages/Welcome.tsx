@@ -1,3 +1,6 @@
+// © Allan Julie Fontes de Oliveira  - 2021
+// Acesse o meu GitHub: https://github.com/Allan28818/NLW5-React-Native
+
 import React from "react";
 import {
   Text,
@@ -57,7 +60,6 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: 28,
-    fontWeight: "bold",
     textAlign: "center",
     color: colors.heading,
     marginTop: 8,

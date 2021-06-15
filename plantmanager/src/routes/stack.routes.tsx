@@ -1,7 +1,9 @@
+// © Allan Julie Fontes de Oliveira  - 2021
+// Acesse o meu GitHub: https://github.com/Allan28818/NLW5-React-Native
+
 import { createStackNavigator } from "@react-navigation/stack";
 import React from "react";
 import { Confirmation } from "../pages/Confirmation";
-import { MyPlants } from "../pages/MyPlants";
 import { PlantSave } from "../pages/PlantSave";
 import { UserIdentification } from "../pages/UserIdentification";
 import { Welcome } from "../pages/Welcome";

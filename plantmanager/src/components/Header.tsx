@@ -1,3 +1,6 @@
+// © Allan Julie Fontes de Oliveira  - 2021
+// Acesse o meu GitHub: https://github.com/Allan28818/NLW5-React-Native
+
 import React, { useEffect, useState } from "react";
 import { StyleSheet, Text, Image, View } from "react-native";
 import AsyncStorage from "@react-native-async-storage/async-storage";
